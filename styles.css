@@ -1,11 +1,13 @@
 /*  your css code here. If applicable */
 table,td,th{
-	border: 2px solid black
+	border: 2px solid black;
 }
 table{
-	background-color: yellow
+	background-color: yellow;
 }
 caption{
-	text-align:center
+	text-align:center;
+	font-weight:bold;
+	
 	
 }
