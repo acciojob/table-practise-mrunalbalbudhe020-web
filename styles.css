@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-table,td,th{
+table,th,tr,td{
 	border: 1px solid black;
 }
 table{
