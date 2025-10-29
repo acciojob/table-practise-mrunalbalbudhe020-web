@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 table,td,th{
-	border: 2px solid black;
+	border: 1px solid black;
 }
 table{
 	background-color: yellow;
@@ -8,6 +8,4 @@ table{
 caption{
 	text-align:center;
 	font-weight:bold;
-	
-	
 }
